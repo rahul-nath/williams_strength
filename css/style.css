@@ -35,14 +35,14 @@
 	{
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #BF5FFF;
 	}
 	
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 600;
 		text-transform: uppercase;
-		color: #888;
+		color: #BF5FFF;
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -54,7 +54,7 @@
 
 	a
 	{
-		color: #666;
+		color: #f0f0f0;
 		text-decoration: none;
 		border-bottom: solid 1px #ddd;
 		-moz-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
@@ -75,19 +75,19 @@
 	
 		a:hover
 		{
-			color: #ed786a;
+			color: #BF5FFF;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 		
 		a:hover strong
 		{
-			color: #ed786a;
+			color: #BF5FFF;
 		}
 
 	strong, b
 	{
 		font-weight: 600;
-		color: #666;
+		color: #5E2D79;
 	}
 	
 	em, i
@@ -162,7 +162,7 @@
 		.image
 		{
 			display: inline-block;
-			border: solid 6px #ebebeb !important;
+			border: solid 6px #72587F !important;
 			-moz-transition: opacity 0.25s ease-in-out;
 			-webkit-transition: opacity 0.25s ease-in-out;
 			-o-transition: opacity 0.25s ease-in-out;
@@ -246,7 +246,7 @@
 				ul.links li
 				{
 					display: inline;
-					border-left: solid 1px #d0d0d0;
+					border-left: solid 1px #9B30FF;
 					padding-left: 1em;
 					margin-left: 1em;
 				}
@@ -269,7 +269,7 @@
 
 				ul.divided li
 				{
-					border-top: solid 2px #e5e5e5;
+					border-top: solid 2px #9B30FF;
 				}
 
 				ul.divided li:first-child
@@ -620,7 +620,7 @@
 
 		#banner-wrapper .inner
 		{
-			background: url('../images/banner.jpg');
+			background: url('../images/williams_strength.jpg');
 			background-size: cover;
 		}
 
@@ -700,7 +700,7 @@
 		{
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #BF5FFF;
 			text-shadow: 0.05em 0.075em 0 rgba(0,0,0,0.1);
 		}
 
